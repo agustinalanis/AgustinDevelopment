@@ -17,7 +17,7 @@
 I build web apps **end-to-end** — from the database schema to the last pixel of the UI.
 For **3+ years**, working at a company and as a freelancer, I've shipped production e-commerce with real payments, secured APIs, and integrated **AI (LLMs) into live products**.
 
-- 💼 **Full Stack Engineer @ Touken** (Chile, remote · 2025) — built features for an AI platform that analyzes audio, video and text responses with OpenAI
+- 💼 **Full Stack Engineer @ Touken** (Chile, remote · 2025 - 2026) — built features for an AI platform that analyzes audio, video and text responses with OpenAI
 - 🛒 **Freelance developer** (2023 – present) — designing, building and deploying web apps for clients, from requirements to post-launch support
 - 🎓 **Systems Engineering @ UTN FRSR** — 37 of 42 subjects passed, GPA 8.06
 - 📍 Mendoza, Argentina
