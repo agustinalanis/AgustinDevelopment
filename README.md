@@ -80,4 +80,4 @@ For **3+ years**, working at a company and as a freelancer, I've shipped product
 
 ---
 
-<p align="center"><b>🔎 Open to Full Stack / Frontend roles (remote)</b> — <a href="mailto:agusalanis.dev@gmail.com">agusalanis.dev@gmail.com</a></p>
+<p align="center"><b>🔎 Open to Full Stack</b> — <a href="mailto:agusalanis.dev@gmail.com">agusalanis.dev@gmail.com</a></p>
